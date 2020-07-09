@@ -19,8 +19,10 @@
 
 <br>
 
-<img alt="Screen" src="./src/img/expansion_week_desafio_3.png" />
-
+<div align="center">
+    <img alt="Screen" src="./src/img/expansion_week_desafio_3.png" />
+</div>
+<br>
 <a id="sobre"></a>
 
 ## :rocket: Sobre o desafio
