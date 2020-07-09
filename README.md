@@ -5,7 +5,7 @@
 </h3>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/frontend-reactjs-blue"/>
+    <img src="https://img.shields.io/badge/backend-nodejs-green"/>
 </div>
 
 <br>
@@ -18,6 +18,8 @@
 </p>
 
 <br>
+
+<img alt="Screen" src="./src/img/expansion_week_desafio_3.png" />
 
 <a id="sobre"></a>
 
@@ -50,12 +52,10 @@ O projeto foi desenvolvido utilizando as tecnologias:
 2. Clonar o repositório:
 
 ```sh
-  $ git clone https://github.com/testtzlaffe/dotenv.git
+  $ git clone https://github.com/testtzlaffe/expansion-week.git
 ```
 
-3. Para atualizar a mensagem com seus objetivos
-
-Abra o arquivo .env e atualize a MESSAGE
+3. Para atualizar a mensagem com seus objetivos: abra o arquivo .env e atualize a MESSAGE
 
 4. Rodar o ambiente de desenvolvimento da aplicação para verificar a mensagem no prompt de comando:
 
@@ -64,7 +64,7 @@ Abra o arquivo .env e atualize a MESSAGE
   $ npm install (ou yarn)
 
   # Iniciar o servidor
-  $ cd dotenv
+  $ cd expansion-week
   $ npm run dev (ou yarn dev)
 ```
 
