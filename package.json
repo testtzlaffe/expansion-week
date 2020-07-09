@@ -1,0 +1,16 @@
+{
+  "name": "expansion-week-desafio-3",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "repository": "https://github.com/testtzlaffe/dotenv.git",
+  "author": "Christian",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "type": "module"
+}
