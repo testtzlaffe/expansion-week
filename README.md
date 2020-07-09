@@ -39,9 +39,9 @@ E para que eu sempre esteja lembrando dos meus objetivos, minha ideia foi dispar
 
 O projeto foi desenvolvido utilizando as tecnologias:
 
-- [Node.js]()
-- [Express]()
-- [dotenv]()
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://www.npmjs.com/package/express)
+- [dotenv](https://www.npmjs.com/package/dotenv)
 
 <a id="run"></a>
 
