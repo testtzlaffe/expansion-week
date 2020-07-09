@@ -27,11 +27,11 @@
 
 ## :rocket: Sobre o desafio
 
-Entre os dias 6 e 10 de julho de 2020 acontece a Expansion Week, da <a href="https://rocketseat.com.br/">Rocketseat</a>, com encontros ao vivo com profissionais que passam experiência para os alunos sobre habilidades além da parte técnica.
+Entre os dias 6 e 10 de julho de 2020 acontece a Expansion Week, da <a href="https://rocketseat.com.br/">Rocketseat</a>, com encontros ao vivo com profissionais que compartilham conhecimento para os alunos dos bootcamps sobre habilidades importantes para os desenvolvedores além da parte técnica.
 
-E neste repositório subi os arquivos para atender o desafio 3: pensar nos meus objetivos e deixar em um local visível para que eu sempre veja onde quero estar em um curto, médio e longo prazos.
+E neste repositório subi os arquivos para atender o desafio 3: pensar nos meus objetivos e deixar em um local visível onde quero estar em curto, médio e longo prazos.
 
-E para que eu sempre esteja lembrando dos meus objetivos, minha ideia foi disparar uma mensagem no prompt de comando toda vez que eu subir um servidor em Node.js.
+E para que eu sempre esteja lembrando dos meus objetivos, minha ideia foi disparar uma mensagem no prompt de comando toda vez que eu subir um servidor em Node.js. :sunglasses:
 
 <a id="tecnologias"></a>
 
